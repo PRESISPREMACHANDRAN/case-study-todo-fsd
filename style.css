@@ -1,0 +1,29 @@
+/* login page */
+
+.container{
+    /* border: solid red; */
+}
+
+
+/* to do page*/
+/* navbar */
+.navbar{
+    border: 1px solid red;
+    margin-top: 2%;
+    margin-left: 10%;
+    margin-bottom: 5%;
+}
+.navbar-brand{
+    border: 1px solid blue;
+    margin-right: 60%;
+}
+.nav-item{
+    border: 1px solid green;
+    margin-left: 80%;
+}
+
+
+/* table */
+.table{
+    border: 1px solid yellow;
+}
