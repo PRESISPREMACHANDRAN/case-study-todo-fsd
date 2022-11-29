@@ -1,29 +1,25 @@
-/* login page */
-
-.container{
-    /* border: solid red; */
-}
-
 
 /* to do page*/
 /* navbar */
 .navbar{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     margin-top: 2%;
-    margin-left: 10%;
+    margin-left: 5%;
     margin-bottom: 5%;
+    margin-right: 5%;
+    background-color:darkgray;
+    
 }
 .navbar-brand{
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
     margin-right: 60%;
+    margin-left: 5%;
+    background-color:blanchedalmond;
 }
 .nav-item{
-    border: 1px solid green;
+    /* border: 1px solid green; */
     margin-left: 80%;
+    background-color:blanchedalmond;
 }
 
 
-/* table */
-.table{
-    border: 1px solid yellow;
-}
