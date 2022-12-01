@@ -106,7 +106,7 @@ function check(){
 
 
 
-// table
+// table$ api
 let checkedArray = [];
 fetch("https://jsonplaceholder.typicode.com/todos").then((data) => {
   return data.json();
@@ -126,6 +126,8 @@ fetch("https://jsonplaceholder.typicode.com/todos").then((data) => {
       </tr>`;
   });
   document.getElementById("table_body").innerHTML = tableData;
+
+  // promise
 
   objectData.forEach(data => {
     let currentComponent = document.getElementById(`Checkbox-${data.id}`)
